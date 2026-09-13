@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Game": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/HOME/PROJECT/LIBRARY/NEXUS/TEST",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_1.12/Binaries/Editor/Win64/$(FlaxConfiguration)/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/HOME/PROJECT/LIBRARY/NEXUS/TEST\"",
+      "nativeDebugging": false
+    }
+  }
+}
